@@ -1,0 +1,290 @@
+[
+ {
+  "id": "rooster",
+  "name": "Rooster",
+  "cat": "classic",
+  "secs": 6
+ },
+ {
+  "id": "twin-bell",
+  "name": "Twin-bell alarm clock",
+  "cat": "classic",
+  "secs": 6
+ },
+ {
+  "id": "school-bell",
+  "name": "School bell",
+  "cat": "classic",
+  "secs": 6
+ },
+ {
+  "id": "church-bells",
+  "name": "Church bells",
+  "cat": "classic",
+  "secs": 8
+ },
+ {
+  "id": "cuckoo",
+  "name": "Cuckoo clock",
+  "cat": "classic",
+  "secs": 6
+ },
+ {
+  "id": "bugle",
+  "name": "Bugle reveille",
+  "cat": "classic",
+  "secs": 8
+ },
+ {
+  "id": "telephone",
+  "name": "Old telephone",
+  "cat": "classic",
+  "secs": 6
+ },
+ {
+  "id": "doorbell",
+  "name": "Doorbell",
+  "cat": "classic",
+  "secs": 5
+ },
+ {
+  "id": "kitchen-ding",
+  "name": "Kitchen timer",
+  "cat": "classic",
+  "secs": 5
+ },
+ {
+  "id": "ticking",
+  "name": "Ticking clock",
+  "cat": "classic",
+  "secs": 8
+ },
+ {
+  "id": "gong",
+  "name": "Gong",
+  "cat": "classic",
+  "secs": 7
+ },
+ {
+  "id": "air-horn",
+  "name": "Air horn",
+  "cat": "loud",
+  "secs": 5
+ },
+ {
+  "id": "fire-alarm",
+  "name": "Fire alarm",
+  "cat": "loud",
+  "secs": 6
+ },
+ {
+  "id": "air-raid",
+  "name": "Air raid siren",
+  "cat": "loud",
+  "secs": 8
+ },
+ {
+  "id": "foghorn",
+  "name": "Ship foghorn",
+  "cat": "loud",
+  "secs": 6
+ },
+ {
+  "id": "train-horn",
+  "name": "Train horn",
+  "cat": "loud",
+  "secs": 6
+ },
+ {
+  "id": "car-horn",
+  "name": "Car horn",
+  "cat": "loud",
+  "secs": 5
+ },
+ {
+  "id": "metal-guitar",
+  "name": "Heavy metal guitar",
+  "cat": "loud",
+  "secs": 8
+ },
+ {
+  "id": "drum-roll",
+  "name": "Drum roll",
+  "cat": "loud",
+  "secs": 6
+ },
+ {
+  "id": "whistle",
+  "name": "Referee whistle",
+  "cat": "loud",
+  "secs": 5
+ },
+ {
+  "id": "trumpet",
+  "name": "Trumpet fanfare",
+  "cat": "loud",
+  "secs": 7
+ },
+ {
+  "id": "wind-chimes",
+  "name": "Wind chimes",
+  "cat": "gentle",
+  "secs": 8
+ },
+ {
+  "id": "music-box",
+  "name": "Music box",
+  "cat": "gentle",
+  "secs": 8
+ },
+ {
+  "id": "piano",
+  "name": "Morning piano",
+  "cat": "gentle",
+  "secs": 8
+ },
+ {
+  "id": "harp",
+  "name": "Harp",
+  "cat": "gentle",
+  "secs": 7
+ },
+ {
+  "id": "flute",
+  "name": "Flute",
+  "cat": "gentle",
+  "secs": 7
+ },
+ {
+  "id": "xylophone",
+  "name": "Xylophone",
+  "cat": "gentle",
+  "secs": 6
+ },
+ {
+  "id": "acoustic-guitar",
+  "name": "Acoustic guitar",
+  "cat": "gentle",
+  "secs": 8
+ },
+ {
+  "id": "singing-bowl",
+  "name": "Singing bowl",
+  "cat": "gentle",
+  "secs": 8
+ },
+ {
+  "id": "sunrise-chimes",
+  "name": "Sunrise chimes",
+  "cat": "gentle",
+  "secs": 8
+ },
+ {
+  "id": "forest-birds",
+  "name": "Forest dawn chorus",
+  "cat": "nature",
+  "secs": 8
+ },
+ {
+  "id": "ocean",
+  "name": "Ocean waves",
+  "cat": "nature",
+  "secs": 8
+ },
+ {
+  "id": "thunder",
+  "name": "Thunderstorm",
+  "cat": "nature",
+  "secs": 8
+ },
+ {
+  "id": "stream",
+  "name": "Mountain stream",
+  "cat": "nature",
+  "secs": 8
+ },
+ {
+  "id": "crickets",
+  "name": "Night crickets",
+  "cat": "nature",
+  "secs": 8
+ },
+ {
+  "id": "cat",
+  "name": "Cat meowing",
+  "cat": "nature",
+  "secs": 5
+ },
+ {
+  "id": "dog",
+  "name": "Dog barking",
+  "cat": "nature",
+  "secs": 5
+ },
+ {
+  "id": "seagulls",
+  "name": "Seagulls",
+  "cat": "nature",
+  "secs": 6
+ },
+ {
+  "id": "jungle",
+  "name": "Jungle morning",
+  "cat": "nature",
+  "secs": 8
+ },
+ {
+  "id": "scifi",
+  "name": "Sci-fi alarm",
+  "cat": "fun",
+  "secs": 6
+ },
+ {
+  "id": "retro-game",
+  "name": "Retro game",
+  "cat": "fun",
+  "secs": 6
+ },
+ {
+  "id": "marching",
+  "name": "Marching band",
+  "cat": "fun",
+  "secs": 8
+ },
+ {
+  "id": "laser",
+  "name": "Laser blasts",
+  "cat": "fun",
+  "secs": 5
+ },
+ {
+  "id": "fire",
+  "name": "Crackling fireplace",
+  "cat": "sleep",
+  "secs": 10
+ },
+ {
+  "id": "cafe",
+  "name": "Coffee shop",
+  "cat": "sleep",
+  "secs": 10
+ },
+ {
+  "id": "train-ride",
+  "name": "Train ride",
+  "cat": "sleep",
+  "secs": 10
+ },
+ {
+  "id": "wind",
+  "name": "Wind",
+  "cat": "sleep",
+  "secs": 10
+ },
+ {
+  "id": "heavy-rain",
+  "name": "Rain on a roof",
+  "cat": "sleep",
+  "secs": 10
+ }
+]
